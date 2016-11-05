@@ -1,0 +1,42 @@
+.register-wrap{height: 65px;padding-left: 140px;margin-bottom: 56px; }
+.register-main{width: 1000px;height: 370px;margin: 0 auto;}
+.regisiter-title{height: 30px; padding-left:15px;border-bottom: 1px solid #e6e6e6}
+.regisiter-title li{float: left;margin-right: 110px;padding: 0 38px 10px; border-bottom:2px solid #c40000;}
+.regisiter-title p{width: 20px; height: 20px; border-radius: 50%;background-color:#c40000;line-height: 20px; text-align: center;color: white;}
+.regisiter-title span{padding-left: 12px;}
+.regisiter-mes{width: 700px; height:308px;margin-left: 200px;margin-top: 50px;}
+.mes-wrap{width:700px; height: 60px;}
+
+.userName_wrong {color:red;white-space: nowrap;border: 1px solid #ffbdbe;  background: #ffebeb;  margin-left: 3px;background: url(../images/error.png) no-repeat left center #ffebeb;padding: 10px 5px 10px 20px;display: none }
+.pwd_wrong {color:red;white-space: nowrap;border: 1px solid #ffbdbe;  background: #ffebeb;  margin-left: 3px;background: url(../images/error.png) no-repeat left center #ffebeb;padding: 10px 5px 10px 20px;display: none }
+.check_wrong {color:red;white-space: nowrap;border: 1px solid #ffbdbe;  background: #ffebeb;  margin-left: 3px;background: url(../images/error.png) no-repeat left center #ffebeb;padding: 10px 5px 10px 20px;display: none }
+.userName_right {color: #71b83d;padding-left: 20px;background: url(../images/right.png) no-repeat left center;display:none;  }
+.pwd_right {color: #71b83d;padding-left: 20px;background: url(../images/right.png) no-repeat left center;display:none;  }
+.check_right {color: #71b83d;padding-left: 20px;background: url(../images/right.png) no-repeat left center;display:none;  }
+
+.none_wrong{color:red;white-space: nowrap;border: 1px solid #ffbdbe;  background: #ffebeb;  margin-left: 3px;background: url(../images/error.png) no-repeat left center #ffebeb;padding: 10px 5px 10px 20px;display: none }
+#userName{border:1px solid #cccccc;width: 260px;height: 35px;}
+.check-box {width: 100px;  height: 35px;  border: 1px solid #e6e6e6; line-height: 35px;  margin-right: 3px;padding-left: 30px;font-size:20px;color: green}
+#pwd{border:1px solid #cccccc;width: 260px;height: 35px;margin-left: 25px;}
+#checkNum{border:1px solid #cccccc;width: 120px;height: 35px;margin-left: 20px;}
+#canvas{border: 1px solid #ccc;padding-bottom: 10px }
+#confirmPwd{border:1px solid #cccccc;width: 120px;height: 35px;}
+#conbtn{border:1px solid #cccccc;width: 120px;height: 35px;background-color: #e6e6e6}
+.mes-read{width: 500px;height: 35px;}
+.next-btn{background-color: #c40000;height: 35px;width: 300px;margin:0px 50px;border-radius: 5px;}
+.next-btn a{line-height: 35px;padding-left:60px;color: white}
+#Check{margin-left: 50px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

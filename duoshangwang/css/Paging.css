@@ -1,0 +1,82 @@
+/*nav样式*/
+
+.nav .nav-list .nav-ad,.nav-li{float: left;}
+/*.nav p{width: 240px;height: 33px;background-color: #d30241;line-height: 33px;font-size:15px;
+    text-align: center;margin-right: 17px;color: white;}*/
+
+.nav li a{margin-right: 28px;line-height: 33px;font-size:15px;display: block;color: #666;font-weight: bolder;position: relative }
+.nav li a:hover{background-color: #db4026;color: white; }
+.nav p:hover .ban-left{ display: none;}
+.line{border: 1px solid #db4026;width: 100%;height: 0;z-index: 9;}
+/*nav样式结束*/
+/*banner样式开始*/
+.none-wrap{height: 130px; width: 100%;display: none}
+.top{width: 100%;height:35px;background-color:#D42000;position: fixed;top: 0;left: 0;display: none;}
+.top li{float: left;width: 192px;border-left: 1px dotted #fff;height: 35px;line-height: 35px;color: white;font-weight: bolder;font-size: 18px; padding-left: 10px;}
+.top-list{;margin-left:-10px;}
+.top-list li{z-index: 2}
+.top-list ol{padding-top: 35px; float: left}
+.top-list ol a{color: #1b1b1b}
+.top-list{width: 400px;height: 300px;border: 2px solid red;background:url("../images/edo_ico_42.jpg")top right no-repeat white ;display: none;}
+.top li:hover .top-list{display: block }
+.top-list li:hover{color: red;}
+
+
+
+
+
+
+
+
+
+.banner{width:100%;height: auto;background-color:#db4026;position: absolute;left: 0;top: 173px}
+.ban-list{display: none}
+.nav-li:hover .ban-list{display: block;}
+.ban-list li a{color: white;}
+
+.main{width: 996px;height:2311px;}
+.main-title{height: 45px;}
+.main-title input{width: 132px; height: 20px;border: 1px solid #ededed;color: #a9a9a9}
+
+.index-list li{float: left;padding-left: 10px;line-height: 45px;}
+.brand-list{width: 996px; height: 32px;line-height: 32px;}
+.cost-list{width: 996px; height: 32px;line-height: 32px;}
+
+.main-top{height: 66px;border: 1px solid #ededed}
+.main-top p{width: 100px;height: 32px;background-color: #f7f7f7;line-height: 32px;text-align: center;}
+.main-top li{margin: 0 20px;}
+.main-cen{width: 960px;height:35px; border: 1px solid #ededed;margin-bottom: -1px;}
+.cen-list li{float: left;height: 35px; line-height: 35px;width: 76px;text-align: center;border:1px solid #dddddd;margin-left: -1px;}
+.page-small {height: 35px; line-height: 35px;  color: #999;  font-size: 12px;margin-right: 20px;}
+.page-small-prev{width: 19px;  padding: 4px 0 2px;  line-height: 1;  font-weight: 700;  font-size: 12px;  text-align: center;  background-color: #FFF;  border: 1px solid #E5E5E5;}
+.page-small-next{width: 19px;  padding: 4px 0 2px;  line-height: 1;  font-weight: 700;  font-size: 12px;  text-align: center;  background-color: #E5E5E5;  border: 1px solid #E5E5E5;}
+
+
+.cost-list{height: 32px; line-height: 32px;border-top: 1px dashed #ededed }
+.cost-list input{width: 44px; height: 21px;border: 1px solid #ccc;}
+.main-cen{height:36px;margin-top: 20px;}
+.main-bom{height: 1910px ;margin-bottom: 83px;}
+.pic-wrap{width: 234px;height:350px;}
+.floor-list{margin-top: 5px;}
+.item-list{margin: 6px;}
+.item-list p{line-height: 21px;}
+.pic-wrap{width: 234px;height: 350px;border: 1px solid #ccc;margin:20px 5px 20px 5px;overflow: hidden;background-color: white;}
+.pic-wrap:hover {box-shadow: 0 0 5px rgba(0,0,0,0.5)}
+.cart{ display: inline-block;width: 78px;height: 25px;line-height: 25px;text-align: center;  background:#c40000;color:#fff;margin-top: 5px;border-radius: 5px;}
+.cart a{color: white;}
+.cart a:hover{color: white;}
+.main-right{width: 244px;height:2224px;}
+.main-hot{height: 40px; background-color:#f2f2f2;line-height: 40px;padding-left:25px;}
+
+
+
+
+
+
+
+
+
+
+
+
+

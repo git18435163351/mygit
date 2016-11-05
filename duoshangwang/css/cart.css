@@ -1,0 +1,39 @@
+/*nav样式*/
+
+.nav .nav-list .nav-ad,.nav-li{float: left;}
+.nav p{width: 240px;height: 33px;background-color: #d30241;line-height: 33px;font-size:15px;
+    text-align: center;margin-right: 17px;color: white;}
+
+.nav li a{margin-right: 11px;line-height: 33px;font-size:15px;padding: 0 13px;display: block;color: #666 }
+.nav li a:hover{background-color: #aa1800;color: white; }
+.nav p:hover .ban-left{ display: none;}
+.line{border: 1px solid #d6134e;width: 100%;height: 0;z-index: 9;}
+/*nav样式结束*/
+
+.cart-sure{width: 1050px;height: 35px; margin: 0px auto;}
+.sure1{width: 332px;height: 35px;margin: 12px auto;background: url("../images/flow_chart.gif") no-repeat 0 0  }
+.sure2{width: 350px;height: 35px;margin: 12px auto;background: url("../images/flow_chart.gif") no-repeat 0 -105px }
+.sure3{width: 330px;height: 35px;margin: 12px auto;background: url("../images/flow_chart.gif") no-repeat 0 -175px }
+
+.cart-address {height: 50px;width: 1000px; margin:15px auto;}
+.cart-list{width: 1000px; height:auto;margin: 0 auto;}
+.cart-title{height: 26px;background-color:#efefef}
+
+.title-list li{margin-left: 12px;line-height: 26px;}
+.cart-shop{margin-right: 67px;}
+.cart-left{ height:auto; width: 1000px;border-top:2px solid #e3e3e3 }
+.cart-left ul{margin-right: 80px;margin-top: 40px;padding-bottom: 50px;}
+.cost{width: 5px;}
+.cart-left ul li{padding-left: 20px;}
+.cart-left ol{margin-top: 13px;width: 380px;}
+.cart-left ol li{margin-top: 10px;}
+.num-wrap { line-height: 30px; padding-left: 18px; }
+.num-wrap a {float: left; width: 20px;border: 1px solid #ccc; text-align: center;}
+.num-text { text-align: center; margin: 0 -1px; width: 60px; line-height: 30px; border: 1px solid           #ccc; float: left;padding-bottom: 0px;}
+.account{width: 1000px; height: 93px;margin: 0 auto;border-top: 2px solid  #e3e3e3}
+.add-accout{width: 1000px;height: 46px;}
+.continue{ width: 100px;  height: 30px;  line-height: 30px;  text-align: center;  float: right;           background: url(../images/icoss.gif) no-repeat 5px -278px;}
+.add-accout h4{width: 142px; height: 30px;background: url("../images/btnss.gif")no-repeat -85px                  -61px;line-height: 30px; text-align: center;margin-right: 50px; }
+.continue1,h2{height: 30px; line-height: 30px;margin-top: 10px; }
+.account h2{margin-right: 50px;}
+.tem-delete{color: #295ad0;  padding: 1px 0 3px 20px;  background: url(../images/icoss.gif)                  no-repeat 0 -214px; position: relative; right: -10px;}

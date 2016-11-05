@@ -1,0 +1,41 @@
+/*头部样式*/
+.head-top{height:32px;width:100%; background-color:#f3f3f3;}
+.head-top a{color: #666}
+.head-left,.head-right{margin-top:8px;}
+.head-left a{ margin:0 6px 0 7px;color: #666 }
+.head-left span{margin:0 11px 0 16px;color: #666 }
+.head-right .shopping{background:url("../images/tuitop_ico.png")no-repeat top -5px  left ; padding-left: 24px;margin-left: 14px;}
+.head-right .app{background:url("../images/tuitop_ico.png")no-repeat top -33px  left; padding-left: 24px;margin-left: 14px;}
+.head-right .phone{background:url("../images/tuitop_ico.png")no-repeat top -60px  left;padding-left: 24px;margin-left: 14px;}
+.head-right  .help{background:url("../images/tuitop_ico.png")no-repeat top -88px  left;padding-left: 24px;margin-left: 14px;}
+.head-bottom{margin-top: 25px;height: 82px;position: relative;}
+.head-bottom a:hover{color:#d61e00; }
+.box{width: 528px;height: 34px; border:3px solid #d61e00;margin-left: 50px;}
+.box input{padding-left:12px;width: 516px;height: 34px;color:#a9a9a9; }
+.head-bottom p{height: 40px;width: 95px; background-color:#d61e00;margin-left: 2px;                        margin-right:37px;  }
+.head-bottom p a{line-height: 40px;font-size:18px;padding-left: 26px;color: #fff;}
+.img img{padding-left: 23px;}
+.head-bottom ul{width: 500px;position: absolute;top: 52px;left: 298px;}
+.head-bottom ul li{float: left;margin-right: 12px;}
+.head-bottom ul li span{padding-right: 5px;}
+.head-bottom ul a{color: #666;}
+a:hover{color:#d61e00; }
+/*头部结束*/
+/*底部样式*/
+.footer a{color:#999999}
+.footer{background: url("../images/tuifooter2.jpg") no-repeat top left}
+.footer .foot-top{/*background: url("../images/tuifooter2.jpg") no-repeat top left;*/width:                    1220px;height: 309px;margin-top: 22px;}
+.footer .foot-top ul{margin-top: 170px;margin-left: 50px;}
+.footer .foot-top ul li{line-height: 20px;padding-left: 20px;}
+.footer .foot-top ul  p{margin:20px 0 17px 20px; }
+.footer .foot-top ul li:hover a{text-decoration: dashed}
+.footer .foot-cen{margin-top: 25px; margin-left: 403px;}
+.footer .foot-bom{width: 600px;height: 138px;margin-left: 363px;margin-top: 22px;}
+.footer .foot-bom p{line-height: 25px;text-align: center;}
+/*底部样式*/
+/*右侧样式*/
+.open{position: fixed; top:350px ;right:0;height: 128px;width:42px; }
+.close{position: fixed; top: 25%;right:-210px;width: 210px;display: none;}
+.go-top{position: fixed;bottom: 20px;;right: 20px;}
+.bg-top{position: fixed;bottom: 20px;;right: 20px;display: none}
+/*右侧样式结束*/

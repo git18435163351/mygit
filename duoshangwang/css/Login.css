@@ -1,0 +1,27 @@
+.login-wrap{height: 65px;padding-left: 140px;margin-bottom: 36px; }
+.login-main{width: 813px;height: 425px;margin: 0 auto}
+.pic-list{width: 420px;height: 260px;overflow: hidden;}
+.login-message{width: 312px;height: 260px;border: 1px solid #e9e9e9;}
+.login-from{margin:12px 18px 0;}
+#userName,#pwd,#login{border:1px solid #cccccc;width: 260px;height: 35px;padding-left: 20px;}
+#userName,#pwd{margin-bottom: 26px;}
+#login{margin-top: 10px; margin-bottom: 17px;background-color: #b10302;color: white;}
+#userName{background: url("../images/login3.jpg") 0 10px no-repeat;}
+#pwd{background: url("../images/login4.jpg")0 10px no-repeat;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
